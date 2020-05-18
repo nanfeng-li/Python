@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="463f669b-965e-42f0-b219-804b5ee99940" name="Default Changelist" comment="" />
+    <list default="true" id="463f669b-965e-42f0-b219-804b5ee99940" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-继承/01-练习/练习2.py" beforeDir="false" afterPath="$PROJECT_DIR$/04-继承/01-练习/练习2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -242,10 +245,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="907" y="503" width="382" height="173" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589809745295" />
-    <state x="1223" y="551" width="273" height="218" key="Github.ShareDialog" timestamp="1589808595124">
+    <state x="1223" y="551" width="273" height="218" key="Github.ShareDialog" timestamp="1589810481878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1223" y="551" width="273" height="218" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589808595124" />
+    <state x="1223" y="551" width="273" height="218" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589810481878" />
+    <state x="853" y="195" key="Github.UntrackedFilesDialog" timestamp="1589810497265">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="853" y="195" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589810497265" />
     <state width="671" height="107" key="GridCell.Tab.0.bottom" timestamp="1589809143379">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
