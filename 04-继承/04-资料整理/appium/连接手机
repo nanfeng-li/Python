@@ -1,0 +1,14 @@
+adb shell dumpsys window w|findstr \/|findstr name=       ##获取包
+adb shell dumpsys acctivity |find "mFocusedActivity"
+
+{
+  "platformName": "Android",
+  "deviceName": "bbcbb5d2",
+  "platformVersion": "8.0",
+  "appPackage": "com.oneplus.calculator",
+  "appActivity": "com.oneplus.calculator.Calculator"
+}
+
+com.tencent.mm/com.tencent.mm.plugin.appbrand.ui.AppBrandUI
+
+com.oneplus.note/com.oneplus.note.ui.MainActivity)
