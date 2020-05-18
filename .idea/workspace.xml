@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="463f669b-965e-42f0-b219-804b5ee99940" name="Default Changelist" comment="修改练习2">
+    <list default="true" id="463f669b-965e-42f0-b219-804b5ee99940" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/04-继承/01-练习/练习2.py" beforeDir="false" afterPath="$PROJECT_DIR$/04-继承/01-练习/练习2.py" afterDir="false" />
     </list>
@@ -200,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589810861225</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改练习3">
+      <created>1589813678388</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589813678388</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,7 +243,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改练习2" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改练习2" />
+    <MESSAGE value="修改练习3" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改练习3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="512" y="159" key="#Notifications" timestamp="1589808607968">
@@ -247,10 +255,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="688" y="359" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1585464794886" />
-    <state x="558" y="244" width="723" height="660" key="CommitChangelistDialog2" timestamp="1589813650664">
+    <state x="558" y="244" width="723" height="660" key="CommitChangelistDialog2" timestamp="1589813893025">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="244" width="723" height="660" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589813650664" />
+    <state x="558" y="244" width="723" height="660" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589813893025" />
     <state x="587" y="165" width="1200" height="808" key="DiffContextDialog" timestamp="1585353196840">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -264,10 +272,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="907" y="503" width="382" height="173" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589809745295" />
-    <state x="1223" y="551" width="273" height="218" key="Github.ShareDialog" timestamp="1589810481878">
+    <state x="1223" y="551" width="273" height="218" key="Github.ShareDialog" timestamp="1589813787811">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1223" y="551" width="273" height="218" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589810481878" />
+    <state x="1223" y="551" width="273" height="218" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589813787811" />
     <state x="853" y="195" key="Github.UntrackedFilesDialog" timestamp="1589810497265">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
