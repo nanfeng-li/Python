@@ -24,7 +24,7 @@ g = graphcut.build_bayes_graph(im, labels, kappa=1)
 # cut the graph
 res = graphcut.cut_graph(g, size)
 print ("OK!!")
-
+print(1)
 
 figure()
 graphcut.show_labeling(im, labels)
